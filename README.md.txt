@@ -63,7 +63,7 @@ Segui todo o passo a passo para a criação dos relatórios no PowerBI Desktop e
 
 
 ## 🔗 Links do Projeto
-- [Projeto no PowerBI Service](https://app.powerbi.com/groups/me/reports/efe7b6c1-bbe6-41bc-967c-d3ec1da37d14/ReportSection?experience=power-bi)
+- [Projeto no PowerBI Service](https://app.powerbi.com/groups/me/reports/0f2b1794-f433-4d04-b157-489f27fe1ae0/ReportSection?experience=power-bi)
 - [Repositório do Projeto no GitHub](https://github.com/iameaz-dev/Desafio-Power-BI.git)
 
 ## 💻 Conecte-se comigo!
