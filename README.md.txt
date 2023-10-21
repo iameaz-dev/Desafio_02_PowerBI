@@ -58,7 +58,7 @@ Segui todo o passo a passo para a criação dos relatórios no PowerBI Desktop e
 
 18. Fechei e apliquei as transformações, afim de criar o relatório com base nos dados transformados;
 
-19. Por fim, criei o Relatório de Visão Geral da Empresa 'Azure Company'.
+19. Por fim, criei o Relatório de Visão Geral da Empresa 'Azure Company' e enviei publiquei no Power BI Service.
 
 
 
